@@ -2,7 +2,8 @@
 title: "Colors-and-Currents"
 date: 2021-07-11
 category: stories
-tags: [colors, currents, new age bullshit, realistic fiction]
+layout: post
+tags: [colors, currents, new age bullshit, realistic fiction, senses]
 ---
 
 I first published this on a wordpress on August 9, 2016. 
