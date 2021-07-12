@@ -1,6 +1,6 @@
 ---
 title: "Colors and Currents"
-date: 2021-07-11
+date: 2016-08-09
 category: stories
 layout: post
 tags: [colors, currents, new age bullshit, realistic fiction, senses]
