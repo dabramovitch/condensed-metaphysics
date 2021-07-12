@@ -2,7 +2,7 @@
 title: "*10:04* Octopus Ending"
 category: stories
 tags: [new age bullshit, realistic fiction, octopus, perception, collectivity]
-date: 2020-20-4
+date: 2020-04-20
 ---
 
 *I originally wrote this April 2020 for a class assignment*
