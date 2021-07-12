@@ -1,5 +1,5 @@
-## Welcome Condensed Metaphysics
+## Welcome to Condensed Metaphysics
 
 This is a bludgeoning blog. 
 
-I mean burgeoning. 
+...I mean burgeoning. 
