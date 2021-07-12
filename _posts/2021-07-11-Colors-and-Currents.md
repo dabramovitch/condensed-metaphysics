@@ -1,3 +1,8 @@
+---
+title: "Colors and Currents"
+date: 2021-07-11
+---
+
 I first published this on a wordpress on August 9, 2016. 
 
         Just a bit of coalescing fruit juice and perhaps a small strand of pulp shone on the small plate before her, and Carter pushed it a little further from the edge of the long common hall table as she rose. The fingers of her left hand closed obediently around her dappled translucent cup, but her mind scarcely noticed it, instead paying its attention to the obligations of her standing position. To the left required fewer steps, but there the chairs were pulled back further, their occupants leaning back after the meal; they were unfamiliar to her besides, with the scarlet wristbands of the Briggs’ Scholars program, and all together non-dislodgeable. She moved right.
