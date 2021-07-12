@@ -1,5 +1,5 @@
 ---
-title: "Colors and Currents"
+title: "Colors-and-Currents"
 date: 2021-07-11
 ---
 
