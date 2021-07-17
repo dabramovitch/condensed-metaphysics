@@ -10,7 +10,10 @@ tags: [food, nutrtion, plants, veganism]
 *Have you ever thought "unprocessed plants are good, but they'd be better with matplotlib?"*
 
 1. Macronutrients and Protein Sources
-![protein_energy_plot](/../images/protein_energy_plot_recolored.png?raw=true)
+![protein_energy_plot](/images/protein_energy_plot_recolored.png)
+(https://user-images.githubusercontent.com/87294351/126049181-56abac75-29db-4453-bff6-296348ff9a06.png)
+/images/fat_plot_lin.png)
+
 
 2. A not particularly insightful graph of fiber, sugar, and starches. 
 
@@ -20,4 +23,4 @@ tags: [food, nutrtion, plants, veganism]
 3. Fats of different types.
 
 (marker size indicates energy fraction from fats)
-![fat_plot](../images/fat_plot_lin.png)
+![fat_plot](![protein_energy_plot_recolored]
