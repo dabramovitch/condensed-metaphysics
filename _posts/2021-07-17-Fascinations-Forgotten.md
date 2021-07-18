@@ -52,4 +52,11 @@ When I imagine fighting, for something, through something, I see a wrestler, fak
 That visual, and feeling as well, remains strangely unchanged, years after my last stance and motion drill. 
 If nothing else, wrestling gave my doughey 6th grade person visible abs and an improved work ethic, both of which I've kept in some form since. 
 Nor has my middle school fascination with debate and arguing truly gone to waste, even if no more than a few hundred words in a google doc ever came of our plan to write a book (mine along with a good middle school friend I last saw two summers ago). 
-Oddly, an initialization from that time still works its way into some of my account logins, and the wisdom to know the aim of an argument would've served me well earlier today. 
+Oddly, an initialization from that time still works its way into some of my account logins, and the wisdom to know the aim of an argument would've served me well earlier today.
+It's harder to find a consequence of my interest with *Magic the Gathering*, which began in an after school program in elementary school. 
+Perhaps the fact that I rarely had anyone to play with weaves into my *Dungeons and Dragons* philosophy that the players have as much a quest as the party, for the best kind of game. 
+Even my fascination with creative writing, though my high school wordpress gathers dust, must have worked its way into the mythology and voice with which I write this blog post. 
+
+
+
+
