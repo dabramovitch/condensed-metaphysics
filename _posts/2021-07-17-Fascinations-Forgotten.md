@@ -30,3 +30,5 @@ But the series of revelations did solidify for me that physics was a possible an
 
 As an aside: that November, and a few months that followed, were probably when I was closest to that (third, physicist) friend. We saw each other after (and lived in adjacent rooms for a year), but talked infrequently and with a distance. For the third time in as many paragraphs, friendships and fascinations became part of the past together. 
 
+In 2021 hindsight, maybe it should be clear that DFT would draw me in. 
+As a 16 year old in honors chemistry, perhaps the most formative class of my high school days, I remember pouring over tables of formation enthalpies, fascinated by whatever in the electrons' ground state led to those energies. 
