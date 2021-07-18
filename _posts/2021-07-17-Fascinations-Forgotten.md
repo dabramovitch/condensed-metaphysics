@@ -18,5 +18,15 @@ And it did, as best I can tell.
 I'm glad I chose it. 
 
 Another draw toward physics that winter, a warm lantern of familiarity glimpsed through the window of an alien house, was first learning about electronic structure theory.
-A (third) friend told me, dragging me before a whiteboard from my prowls of our Berkeley's Foothill housing corridors, in turn a cool refuge from the broken steam heater in my dorm that turned on November 1 with no appartent off switch, about something called DFT. 
+A (third, physicist) friend told me, dragging me before a whiteboard from my prowls of our Berkeley's Foothill housing corridors, in turn a cool refuge from the broken steam heater in my dorm that turned on November 1 with no appartent off switch, about something called DFT. 
+He thought it might appeal to me. 
+It did. 
+I knew just enough quantum, mostly from my mess of a gen chem class, its...storied... professor (whose main contribution to teaching was puntuating another professors slides with *The Good, The Bad, and The Ugly*'s theme song to alert us to an impending explosion), and my unphasable, quantum monte carlo-studying GSI, to see a promise in the Kohn-Sham equation, not enough to see the eyes of uncomfortably-approximated many body theory watching me grope in the dark. 
+But I learned, more or less correctly, that DFT providing a means to calculate the bands and bonding of material and chemical systems using quantum mechanics, with error coming from correlation and self-interaction in the mean field. 
+I knew the word "exchange" entered the mix too. 
+Well, quantum and statistical mechanics could be found in the physics department, and so too could the person (Jeff Neaton) who came up first after googling "Berkeley density functional theory."
+I didn't immediately jump ship to physics, or attempt to start research in electronic structure. 
+But the series of revelations did solidify for me that physics was a possible and powerful pathway to understanding tangible matter, and that conducting research didn't necessarily meaning working in a physical lab. 
+
+As an aside: that November, and a few months that followed, were probably when I was closest to that (third, physicist) friend. We saw each other after (and lived in adjacent rooms for a year), but talked infrequently and with a distance. For the third time in as many paragraphs, friendships and fascinations became part of the past together. 
 
