@@ -47,15 +47,23 @@ I took a number of bike rides into the foothills with friends one spring and sum
 The friends outlasted the biking, but not the years since. 
 Next came a dozen-odd games of tennis, and 40 or so satirical articles related to my high school. 
 For seven years, I spent long hours on the wrestling mat; at the time it formed a significant part of my identity, for better or worse. 
-I could say it impacted me strikingly little, for something I cared so much about, but I don't think that's true. 
+I could say it now impacts me strikingly little, for something I cared so much about, but I don't think that's true. 
 When I imagine fighting, for something, through something, I see a wrestler, faking and sweating and snapping and penetrating. 
-That visual, and feeling as well, remains strangely unchanged, years after my last stance and motion drill. 
+That visual, and feeling as well, remains strangely unchanged years after my last stance and motion drill. 
 If nothing else, wrestling gave my doughey 6th grade person visible abs and an improved work ethic, both of which I've kept in some form since. 
 Nor has my middle school fascination with debate and arguing truly gone to waste, even if no more than a few hundred words in a google doc ever came of our plan to write a book (mine along with a good middle school friend I last saw two summers ago). 
 Oddly, an initialization from that time still works its way into some of my account logins, and the wisdom to know the aim of an argument would've served me well earlier today.
 It's harder to find a consequence of my interest with *Magic the Gathering*, which began in an after school program in elementary school. 
 Perhaps the fact that I rarely had anyone to play with weaves into my *Dungeons and Dragons* philosophy that the players have as much a quest as the party, for the best kind of game. 
-Even my fascination with creative writing, though my high school wordpress gathers dust, must have worked its way into the mythology and voice with which I write this blog post. 
+Even my fascination with creative writing, though my high school wordpress gathers dust, must have worked its way into the mythology and voice with which I write this blog post, after a four year gap. 
+
+This September, I will begin a PhD, and not in volcanology.
+My research interests are still mainly in electronic structure theory, methodology for studying quantum mechanics in its natural habitat. 
+A wide variety of methods-DMFT, GW, quantum embedding, quantum chemistry's clusters and configurations-excite me greatly, though not (currently) plain old DFT. 
+Perhaps I have come to value the interactions, that many-body dance which gives our excitement both wonderous possibility and finite lifetime. 
+Perhaps I have not yet come to properly appreciate the mean field-that omnipresent background of everything that makes us what we are. 
+Perhaps 5 semesters of quantum have simply changed my tastes. 
+I did eventually run a few DFT calculations, as part of a project on tight binding methods for halide perovskites involving myriad moving parts in which I developed greatly as a scientist and became a position space stan.
 
 
 
