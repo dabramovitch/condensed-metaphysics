@@ -7,7 +7,8 @@ published : true
 ---
 
 Tonight I texted with an old friend who, hearing I was headed to grad school, asked me if I was still interested in volcanoes. 
-Not the same old friend I had excitedly texted, in a fit of college-major-reservation-induced soul searching, after learning that "volcanologist" was an extant career, who told me she'd study bulldozers (or was it dump trucks?) if I dropped chem E for volcanoes, but reneged to CS for, she said, the money. 
+Not the same old friend I had excitedly texted, in a fit of college-major-reservation-induced soul searching, after learning that "volcanologist" was an extant career.
+She told me she'd study bulldozers (or was it dump trucks?) if I dropped chem E for volcanoes, but reneged to CS for, she said, the money. 
 I haven't spoken to her in a few years. 
 
 I did, however, drop chemical engineering. 
