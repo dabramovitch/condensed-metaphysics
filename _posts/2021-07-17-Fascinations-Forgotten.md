@@ -6,11 +6,11 @@ tags : [interests, time, forgetting]
 published : false
 ---
 
-Today I texted with an old friend who, hearing I was headed to grad school, asked me if I was still interested in volcanoes. 
+Tonight I texted with an old friend who, hearing I was headed to grad school, asked me if I was still interested in volcanoes. 
 Not the same old friend I had excitedly texted, in a fit of college-major-reservation-induced soul searching, after learning that "volcanologist" was an extant career, who told me she'd study bulldozers (or was it dump trucks?) if I dropped chem E for volcanoes, but reneged to CS for, she said, the money. 
 I haven't spoken to her in a few years. 
 
-I did, however, drop chem E. 
+I did, however, drop chemical engineering. 
 Over a California winter of 4-year plans and introspection, I decided that most of what I liked in chem E was chemistry and feeling like I mattered, and most of what I liked in chemistry was thinking about why things were sticky, and the consequences of jiggling. 
 Now I've rebranded them as quantum and stat mech, and graduated with a degree in physics. 
 It became the clear choice by that April; I believed its strong mathematical and conceptual foundation, flexibility to explore other topics, and low likelyhood of precipitating death by fume hood would serve me well when faced with any number of problems, chemical or otherwise. 
@@ -32,3 +32,24 @@ As an aside: that November, and a few months that followed, were probably when I
 
 In 2021 hindsight, maybe it should be clear that DFT would draw me in. 
 As a 16 year old in honors chemistry, perhaps the most formative class of my high school days, I remember pouring over tables of formation enthalpies, fascinated by whatever in the electrons' ground state led to those energies. 
+I recall digging deeper about why chemical concentrations of products and reactants showed up in the Gibbs free energy, too. 
+And thinking that, in our statistical world, Boltzmann's constant must go deeper than a rescaled parameter for gasses (it turns out it's a unit conversion, but it was a worthy effort). 
+So maybe it's unsurprising that I studied physics and kept an eye on the chemical and material. 
+
+But I had other fascinations in high school too. 
+Economics, the dismal math at the crime scene of most of the world's suffering, intrigued me for a while, from *Freakonomics* to *The Undercover Economist* to Mr. Lyons' sardonic bemusement at Yugoslavia's "New Dinar." 
+So did computer science, in which Josh Paley moved me to see the beauty in abstraction. 
+And I liked *Hamlet* for a while too, a fascination ceding in recent years to contemporary, dystopian, and fantastical stories of indecision in the face of a crumbling world. 
+
+I had fascinations beyond academic pursuits. 
+It's a bit of a stupid thing to say, even if remembering them tonight challenges my insecurity that from my childhood to now, most of my interests have been fairly underdeveloped. 
+I took a number of bike rides into the foothills with friends one spring and summer. 
+The friends outlasted the biking, but not the years since. 
+Next came a dozen-odd games of tennis, and 40 or so satirical articles related to my high school. 
+For seven years, I spent long hours on the wrestling mat; at the time it formed a significant part of my identity, for better or worse. 
+I could say it impacted me strikingly little, for something I cared so much about, but I don't think that's true. 
+When I imagine fighting, for something, through something, I see a wrestler, faking and sweating and snapping and penetrating. 
+That visual, and feeling as well, remains strangely unchanged, years after my last stance and motion drill. 
+If nothing else, wrestling gave my doughey 6th grade person visible abs and an improved work ethic, both of which I've kept in some form since. 
+Nor has my middle school fascination with debate and arguing truly gone to waste, even if no more than a few hundred words in a google doc ever came of our plan to write a book (mine along with a good middle school friend I last saw two summers ago). 
+Oddly, an initialization from that time still works its way into some of my account logins, and the wisdom to know the aim of an argument would've served me well earlier today. 
