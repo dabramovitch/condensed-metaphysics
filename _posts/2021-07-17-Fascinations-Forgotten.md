@@ -64,6 +64,11 @@ Perhaps I have come to value the interactions, that many-body dance which gives 
 Perhaps I have not yet come to properly appreciate the mean field-that omnipresent background of everything that makes us what we are. 
 Perhaps 5 semesters of quantum have simply changed my tastes. 
 I did eventually run a few DFT calculations, as part of a project on tight binding methods for halide perovskites involving myriad moving parts in which I developed greatly as a scientist and became a position space stan.
+Ironically, this project brought together so many of the fascinations I first cultivated in that chem honors class-why electrons form bonds, the halide perovskite material class, thinking a bit more like a scientist. 
+I said as much to my chemistry teacher, whose passion and wisdom were so formative in my life, in an email after I submitted the manuscript. 
+
+He didn't write back. 
+I suppose I can try again when it is published. 
 
 
 
