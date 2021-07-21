@@ -30,7 +30,9 @@ She’d nodded then, a lovely warmth dancing across her face, and he knew she be
 
 All that had brought him here, unclenching his teeth, softening his gaze, scrambling for a handhold. When she’d said the game was to put the pieces together, he should have known it would go like this, as it did with anything he faced without a clear solution space. He’d been right to be nervous then. . . though maybe it wasn’t quite the statement but the way she smiled as she said it.  
 
-She was smiling that way now. Quickly, he closed his mouth and dropped his eyes. He exhaled. His mind couldn’t contain a triangle in that moment, just the short space between them, tethering him back into the immediate. And then he knew.  
+She was smiling that way now.
+
+Quickly, he closed his mouth and dropped his eyes. He exhaled. His mind couldn’t contain a triangle in that moment, just the short space between them, tethering him back into the immediate. And then he knew.  
 
 Like Kella and the loudspeaker, he’d spoken first.  
 
