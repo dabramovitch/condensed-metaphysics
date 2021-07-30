@@ -81,8 +81,8 @@ You may choose a number of the following abilities equal to your proficiency bon
 **Anti-caster:** Enemies affected by your hunter's mark have disadvantage on checks to maintain concentration against damage you deal.   
 **Mobile Fighter:** When you take the disengage action, your movement speed increases by 50% until the end of your turn.   
 **Endurer:** You have advantage against checks made to prevent levels of exhaustion.   
-**Improviser:** You have proficiency with improvised weapons.   
-**Sage:** On topics related to your experiences and adventures, you may use wisdom in place of charisma as the modifier for persuasion and intimidation checks.
+**Improviser:** You have proficiency with improvised weapons.  
+**Sage:** On topics related to your experiences and adventures, you may use wisdom in place of charisma as the modifier for persuasion and intimidation checks.  
 **Indominable:** When you succeed on a wisdom saving throw against an effect attempting to frighten, paralyze, or otherwise subvert your will, you gain bonus damage equal to your wisdom modifier on attacks until the end of your next turn. 
 
 ### Land Stride (Level 8): 
@@ -99,4 +99,4 @@ You draw on the powers of nature to hide yourself from view briefly. As a bonus 
 Same as in PHP.
 
 ### Foe Slayer (Level 20): 
-For each turn you have Hunter's mark active without switching targets or recasting, you gain a bonus damage on attacks against targets affected by hunter's mark equal to the number of turns. 
+For each turn you have Hunter's mark active without switching targets or recasting, you gain bonus damage on attacks against targets affected by hunter's mark equal to the number of turns. 
