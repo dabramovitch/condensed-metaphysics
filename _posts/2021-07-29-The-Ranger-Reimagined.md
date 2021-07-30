@@ -3,7 +3,7 @@ title : "D&D: The Ranger Reimagined"
 category : D&D
 tags : ["fantasy", "ranger", "D&D"]
 date : 2021-07-29
-published : False
+published : True
 ---
 ## Motivation 
 
@@ -14,7 +14,7 @@ This is unfortunate, because rangers are a classic fantasy archetype (Aragorn, G
 Moreover, in D&D they promise strategic and ultimately fun gameplay based not on exhaustive spell lists but using nature and natures in ways others would not. 
 In the following, I rewrite the core of the ranger class (leaving the subclasses and spells constant, at least for now), with the aim of making a fun, unique, and balanced\* class. 
 
-\* it is probably a bit overpowered but not too bad I don't think. 
+\* I haven't playtested it, it may be slightly overpowered.
 
 ## Overarching themes: Rangers should...
 1. ... be skilled at understanding environments and monsters and using this to their advantage. 
@@ -83,7 +83,8 @@ You may choose a number of the following abilities equal to your proficiency bon
 **Endurer:** You have advantage against checks made to prevent levels of exhaustion.   
 **Improviser:** You have proficiency with improvised weapons.  
 **Sage:** On topics related to your experiences and adventures, you may use wisdom in place of charisma as the modifier for persuasion and intimidation checks.  
-**Indominable:** When you succeed on a wisdom saving throw against an effect attempting to frighten, paralyze, or otherwise subvert your will, you gain bonus damage equal to your wisdom modifier on attacks until the end of your next turn. 
+**Indominable:** When you succeed on a wisdom saving throw against an effect attempting to frighten, paralyze, or otherwise subvert your will, you gain bonus damage equal to your wisdom modifier on attacks until the end of your next turn.  
+**Nature caster:** You may add one druid spell of a level you can cast to your prepared spells. It does not count against the total number of prepared spells.
 
 ### Land Stride (Level 8): 
 Same as in PHP
