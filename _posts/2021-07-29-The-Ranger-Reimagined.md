@@ -49,7 +49,8 @@ Once per short or long rest, you may make a wisdom check to gain insight about a
 * You gain advantage on wisdom (survival) and intelligence (investigation) checks made to track the enemy. 
 * You learn if the enemy is resistant or vulnerable to two damage types of your choice. 
 * You learn if the enemy's strength, dexterity, constitution, intelligence, wisdom, charisma, armor class, or hit points is much lower, somewhat lower, the same, somewhat higher, or much higher than yours. 
-* You become atuned to a specific sound, smell, or other sensation associated with the target terrain or enemy and have advantage on wisdom (perception) checks involving the sensation. 
+* You become atuned to a specific sound, smell, or other sensation associated with the target terrain or enemy and have advantage on wisdom (perception) checks involving the sensation.
+* You gain advantage on wisdom (medicine) saves to related to injuries or conditions inflicted by the target monster or environment. 
 
 ### Hunter's Mark (Level 1): 
 You may use a bonus action to apply a Hunter's mark to an enemy or 10 ft radius area around a fixed point. You may do this a number of times equal to you proficiency bonus per long rest. 
@@ -76,7 +77,7 @@ You may choose a number of the following abilities equal to your proficiency bon
 **Mobile Fighter:** When you take the disengage action, your movement speed increases by 50% until the end of your turn.   
 **Endurer:** You have advantage against checks made to prevent levels of exhaustion.   
 **Improviser:** You have proficiency with improvised weapons.   
-**Sage:** On topics related to your experiences and adventures, you may use wisdom in place of charisma as the modifier for persuasion and intimidation checks.   
+**Sage:** On topics related to your experiences and adventures, you may use wisdom in place of charisma as the modifier for persuasion and intimidation checks.
 
 
 
