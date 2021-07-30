@@ -14,7 +14,7 @@ This is unfortunate, because rangers are a classic fantasy archetype (Aragorn, G
 Moreover, in D&D they promise strategic and ultimately fun gameplay based not on exhaustive spell lists but using nature and natures in ways others would not. 
 In the following, I rewrite the core of the ranger class (leaving the subclasses and spells constant, at least for now), with the aim of making a fun, unique, and balanced\* class. 
 
-\* I haven't playtested it, it may be slightly overpowered.
+\* I haven't playtested it; it may be slightly overpowered.
 
 ## Overarching themes: Rangers should...
 1. ... be skilled at understanding environments and monsters and using this to their advantage. 
