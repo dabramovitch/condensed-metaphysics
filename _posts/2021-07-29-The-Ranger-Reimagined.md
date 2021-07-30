@@ -24,14 +24,14 @@ In the following, I rewrite the core of the ranger class (leaving the subclasses
 ## Class Features
 
 #### Hit Points: 
-**Hit Dice:** 1d10 per ranger level
+**Hit Dice:** 1d10 per ranger level  
 **Hit Points at Nth Level:** 10 + (1d10 or 6) x (N-1) + N x constitution modifier
 
 #### Proficiencies: 
-**Armor:** Light armor, medium armor, shields
-**Weapons:** Simple weapons, martial weapons
-**Tools:** None
-**Saving Throws:** Dexterity, Wisdom
+**Armor:** Light armor, medium armor, shields  
+**Weapons:** Simple weapons, martial weapons  
+**Tools:** None  
+**Saving Throws:** Dexterity, Wisdom  
 **Skills:** Choose 3 from: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival 
 
 #### Equipment: 
@@ -67,16 +67,16 @@ See player's handbook and expansions.
 ### Ranger Tactics (Level 6): 
 You may choose a number of the following abilities equal to your proficiency bonus. When you finish a long rest, you may swap out one ability for another. 
 
-**Ambusher:** When you roll initiative, any surprised enemies gain a penalty to initiative equal to your wisdom modifier. 
-**Trapper:** Choose one ally. The next time you or the ally force enemies to make a dexterity or stength saving throw, they gain a penalty equal to your wisdom modifier. This resets on a short rest. 
-**Evader:** When you take the dodge action in combat, you may use your bonus action to make a single attack. 
-**Hexer:** When you cast a spell which augments a weapon attack and applies only when the attack hits, you do not expend the spell slot if the attack misses. 
-**Precise Hunter:** Against enemies affected by your hunter's mark, you deal a critical hit on a 19 or 20. 
-**Anti-caster:** Enemies affected by your hunter's mark have disadvantage on checks to maintain concentration against damage you deal. 
-**Mobile Fighter:** When you take the disengage action, your movement speed increases by 50% until the end of your turn. 
-**Endurer:** You have advantage against checks made to prevent levels of exhaustion. 
-**Improviser:** You have proficiency with improvised weapons. 
-**Sage:** On topics related to your experiences and adventures, you may use wisdom in place of charisma as the modifier for persuasion and intimidation checks. 
+**Ambusher:** When you roll initiative, any surprised enemies gain a penalty to initiative equal to your wisdom modifier.   
+**Trapper:** Choose one ally. The next time you or the ally force enemies to make a dexterity or stength saving throw, they gain a penalty equal to your wisdom modifier. This resets on a short rest.   
+**Evader:** When you take the dodge action in combat, you may use your bonus action to make a single attack.   
+**Hexer:** When you cast a spell which augments a weapon attack and applies only when the attack hits, you do not expend the spell slot if the attack misses.   
+**Precise Hunter:** Against enemies affected by your hunter's mark, you deal a critical hit on a 19 or 20.   
+**Anti-caster:** Enemies affected by your hunter's mark have disadvantage on checks to maintain concentration against damage you deal.   
+**Mobile Fighter:** When you take the disengage action, your movement speed increases by 50% until the end of your turn.   
+**Endurer:** You have advantage against checks made to prevent levels of exhaustion.   
+**Improviser:** You have proficiency with improvised weapons.   
+**Sage:** On topics related to your experiences and adventures, you may use wisdom in place of charisma as the modifier for persuasion and intimidation checks.   
 
 
 
