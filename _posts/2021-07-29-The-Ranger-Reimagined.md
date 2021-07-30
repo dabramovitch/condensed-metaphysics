@@ -12,7 +12,9 @@ Few experienced players choose them, and many of their abilities are situational
 In many ways, these class features seem to fall into a void between gameplay and roleplay, not particularly useful to either. 
 This is unfortunate, because rangers are a classic fantasy archetype (Aragorn, Geralt, Rocket, Halt's Apprentice) which explore the unique theme of boundaries: between civilization and wild, duty and bloodbath, human and other.
 Moreover, in D&D they promise strategic and ultimately fun gameplay based not on exhaustive spell lists but using nature and natures in ways others would not. 
-In the following, I rewrite the core of the ranger class (leaving the subclasses and spells constant, at least for now), with the aim of making a fun, unique, and balanced class. 
+In the following, I rewrite the core of the ranger class (leaving the subclasses and spells constant, at least for now), with the aim of making a fun, unique, and balanced\* class. 
+
+\* it is probably a bit overpowered but not too bad I don't think. 
 
 ## Overarching themes: Rangers should...
 1. ... be skilled at understanding environments and monsters and using this to their advantage. 
@@ -30,7 +32,7 @@ In the following, I rewrite the core of the ranger class (leaving the subclasses
 #### Proficiencies: 
 **Armor:** Light armor, medium armor, shields  
 **Weapons:** Simple weapons, martial weapons  
-**Tools:** Cook's Utensils 
+**Tools:** Cook's Utensils  
 **Saving Throws:** Dexterity, Wisdom  
 **Skills:** Choose 3 from: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival 
 
@@ -65,6 +67,9 @@ For spellcasting, see PHP. The only change is that instead of knowing a fixed nu
 ### Ranger Archetype (Level 3): 
 See player's handbook and expansions. 
 
+### Extra Attack (Level 5): 
+You can attack twice when you take the attack action on your turn. 
+
 ### Ranger Tactics (Level 6): 
 You may choose a number of the following abilities equal to your proficiency bonus. When you finish a long rest, you may swap out one ability for another. 
 
@@ -78,6 +83,20 @@ You may choose a number of the following abilities equal to your proficiency bon
 **Endurer:** You have advantage against checks made to prevent levels of exhaustion.   
 **Improviser:** You have proficiency with improvised weapons.   
 **Sage:** On topics related to your experiences and adventures, you may use wisdom in place of charisma as the modifier for persuasion and intimidation checks.
+**Indominable:** When you succeed on a wisdom saving throw against an effect attempting to frighten, paralyze, or otherwise subvert your will, you gain bonus damage equal to your wisdom modifier on attacks until the end of your next turn. 
 
+### Land Stride (Level 8): 
+Same as in PHP
 
+### Hide in Plain Sight (Level 10): 
+You can spend 1 minute using items from the environment to create a camouflage for up to 6 willing creatures (including yourself) or inanimate objects that fit within a 10 ft cube. If you use this on creatures, the creatures get a +10 to dexterity (stealth) checks while they are not moving or taking actions. The effect ends for a creature if the creature attacks, takes damage from an attack or spell, moves more than half its movement speed in one turn, or casts a spell requiring somatic components. If you conceal an inanimate object, creatures unaware of the concealment do not automatically see the object. If they look in the area where the object is hidden, they must succeed on a wisdom (perception) check with difficulty equal to your spell save DC to see the object. 
 
+### Nature's Veil (Level 14): 
+You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become invisible, along with your equipment, until the beginning of your next turn. You can use this a number of times equal to your proficiency bonus per long rest.   
+*if you find that this is overpowered, you can replace it with **Vanish** from the PHP*
+
+### Feral Senses (Level 18): 
+Same as in PHP.
+
+### Foe Slayer (Level 20): 
+For each turn you have Hunter's mark active without switching targets or recasting, you gain a bonus damage on attacks against targets affected by hunter's mark equal to the number of turns. 
