@@ -30,7 +30,7 @@ In the following, I rewrite the core of the ranger class (leaving the subclasses
 #### Proficiencies: 
 **Armor:** Light armor, medium armor, shields  
 **Weapons:** Simple weapons, martial weapons  
-**Tools:** None  
+**Tools:** Cook's Utensils 
 **Saving Throws:** Dexterity, Wisdom  
 **Skills:** Choose 3 from: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival 
 
