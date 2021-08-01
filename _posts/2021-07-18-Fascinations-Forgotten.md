@@ -19,7 +19,7 @@ And it did, as best I can tell.
 I'm glad I chose it. 
 
 Another draw toward physics that winter, a warm lantern of familiarity glimpsed through the window of an alien house, was first learning about electronic structure theory.
-A (third, physicist) friend told me, dragging me before a whiteboard from my prowls of Berkeley's Foothill Housing's corridors, in turn a cool refuge from the broken steam heater in my dorm that turned on November 1 with no appartent off switch, about something called DFT. 
+A (third, physicist) friend told me, dragging me before a whiteboard from my prowls of Berkeley's Foothill Housing's outdoor corridors, in turn a cool refuge from the broken steam heater in my dorm that turned on November 1 with no appartent off switch, about something called DFT. 
 He thought it might appeal to me. 
 It did. 
 I knew just enough quantum, mostly from my mess of a gen chem class, its...storied... professor (whose main contribution to teaching was puntuating another professor's slides with *The Good, The Bad, and The Ugly*'s theme song to alert us to an impending explosion), and my unphasable, quantum monte carlo-studying GSI, to see a promise in the Kohn-Sham equation, not enough to see the eyes of uncomfortably-approximated many body theory watching me grope in the dark. 
