@@ -23,7 +23,7 @@ A (third, physicist) friend told me, dragging me before a whiteboard from my pro
 He thought it might appeal to me. 
 It did. 
 I knew just enough quantum, mostly from my mess of a gen chem class, its...storied... professor (whose main contribution to teaching was puntuating another professor's slides with *The Good, The Bad, and The Ugly*'s theme song to alert us to an impending explosion), and my unphasable, quantum monte carlo-studying GSI, to see a promise in the Kohn-Sham equation, not enough to see the eyes of uncomfortably-approximated many body theory watching me grope in the dark. 
-But I learned, more or less correctly, that DFT providing a means to calculate the bands and bonding of material and chemical systems using quantum mechanics, with error coming from correlation and self-interaction in the mean field. 
+But I learned, more or less correctly, that DFT provided a means to calculate the bands and bonding of material and chemical systems using quantum mechanics, with error coming from correlation and self-interaction in the mean field. 
 I knew the word "exchange" entered the mix too. 
 Well, quantum and statistical mechanics could be found in the physics department, and so too could the person (Jeff Neaton) who came up first after googling "Berkeley density functional theory."
 I didn't immediately jump ship to physics, or attempt to start research in electronic structure. 
