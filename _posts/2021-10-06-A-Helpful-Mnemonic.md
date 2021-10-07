@@ -26,3 +26,6 @@ In this stat mech lecture, the helpful mnemonic was that a certain contribution 
 A worthy, though not truly surprising, observation. 
 But in my mind a strange thing to call a mnemonic, a device for remembering. 
 
+I have learned a number of things, some of which I remember, and if I think a bit harder I can remember some of the mnemonics too. 
+Not long after *every good boy does fine* were *eyes on the side (in front), likes to hide (hunt)* (about animals) and *a sin is never right* (about Hebrew letters). 
+Some time later came the quadratic formula sung to "pop goes the weasel",  shoulder-knee alignment (in wrestling), and *PCP, narcotics, and marijuana are excellent choices* (for the phylla in animalia).
