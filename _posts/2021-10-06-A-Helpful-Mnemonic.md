@@ -17,3 +17,12 @@ As I said, I am just beginning my PhD.
 And unlike piano, I do not *think* I am doing it because it fulfills some social expectation about what it means to be smart. 
 In fact, am a bit countercultural toward some of the mainstream physics ideas about what it means for science to be pure, beautiful, or worthy. 
 But I can't be certain toward my inner motivations. 
+Identities are scrapped together judiciously and dynamically, veritable ships of Theseus, but their cohesion may be like the ship as well, thoroughly built and bulwarked around the constraints of the unbreathable depths they're intended to exlude. 
+Or not. 
+Passions and insecurity invariably layer like cloud and sky on the horizon at sunset: sometimes distinguishable, sometimes not, the totality, uncaring, merely beautiful for the light. 
+Say only that I am more than ever appreciating the intricate interactions, and that I am taking statistical mechanics, and that those are largely but not entirely unrelated. 
+
+In this stat mech lecture, the helpful mnemonic was that a certain contribution was equivalent to the Shannon entropy. 
+A worthy, though not truly surprising, observation. 
+But in my mind a strange thing to call a mnemonic, a device for remembering. 
+
