@@ -60,7 +60,7 @@ Perhaps proper time can enable that connection: if I don't count the ticks of my
 It is strange tracing these conceptual threads in hindsight, understanding comes from truly unexpected places. 
 I guess I learned that in stat mech: Shannon entropy states that the unpredictable tells us more*. 
 
-And I have learned while being a physicist, which is reaches far beyond the physical. 
+And I have learned while being a physicist, which reaches far beyond the physical. 
 I will leave the details to other writing, but the core of it is growing up, and being a good person besides a good scientist. 
 The two are not synonymous, that is sadly and obviously true, illustrated by the world among other things, but I think there is reason for optimism too. 
 People are people, some do good and others bad, but there are things science can help us understand and help us remember. 
