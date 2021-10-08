@@ -49,5 +49,30 @@ But I have learned in physics, there is no doubt of that.
 And conciously or not, mnemoniced or not, I have constructed some deep and intuitive conceputal understanding, creating storied, personal mythologies for abstract fundamentals in physics. 
 If I require an uninspired twenty seconds to verify the signs of the Euler-Lagrange equation, it does not stop me from seeking meaning in action and a path integrals myriad journeys. 
 I remember at one point thinking that *The Road Less Travelled* might well have been about the Aharonov-Bohm effect, in both, two paths may be indistinguishable, but indecision over which to follow creates measureable interferrence well beyond. 
+**GW** is a good but uncreative name, but it *is* good to have a framework to understand how the interactions we do see are nudged by so many we don't. 
+And there is nothing uncreative about the imaginativeness unleashed by thinking in the framework of propagation and dynamical interaction: **GW** was my first foray into many body theory. 
+Even proper time means something to me, I'm sure, or it may one day. 
+It's true that special relativity has never been a strength of mine. 
+(Today I spent fifteen minutes unable to remember the Lorentz transformation for a boost in 1+1 dimensions. when I did, it was through determinants and google searches, not rhymes or abreviation). 
+I've taken a semester of it, so perhaps my struggles are because of the geometry, perhaps because it has never felt mine. 
+But as I am taking relativistic QFT, I will need it. 
+Perhaps proper time can enable that connection: if I don't count the ticks of my own watch, then I can march to the beat of my own drum.
+It is strange tracing these conceptual threads in hindsight, understanding comes from truly unexpected places. 
+I guess I learned that in stat mech: Shannon entropy states that the unpredictable tells us more*. 
 
+And I have learned while being a physicist, which is reaches far beyond the physical. 
+I will leave the details to other writing, but the core of it is growing up, and being a good person besides a good scientist. 
+The two are not synonymous, that is sadly and obviously true, illustrated by the world among other things, but I think there is reason for optimism too. 
+People are people, some do good and others bad, but there are things science can help us understand and help us remember. 
+
+Grad school is about intelligence and knowledge, but I suspect a deeper sort of wisdom will be necessary too, if I am to get by. 
+Moreover, it is half a decade of life. 
+Both understanding physics and everything else will be important; moreover, I'm not sure they are completely distinguishable. 
+
+All of this means many things; one is that now, at this beginning, there is much to remember. 
+I do not know that mnemonics are the best way to , certainly, despite the scarcity in physics, I have heard too many to keep in my head. 
+But maybe merely the first and the last are a worthy approximation: that *every good boy does fine*, and that the unpredictable often tells us the most. 
+
+
+\*There is kind of a caveat here that more information does not necessary equate to more knowledge. But with some conceptual guidance the idea is there. 
 
