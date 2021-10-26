@@ -11,7 +11,7 @@ Things to think about:
 Freebird and Zen story, old lady names (Betsy, Winfred, etc)? and not growing old. (having been asked about veganism earlier)
 Spherical cows in a vacuum. 
 What is can't be quantified still matters...but they know that, when it's convenient.
-Aspects besides animal lives: greenhouse gasses, water, land use, health, pandemics, antimicrobial resistance. 
+Aspects besides animal lives: greenhouse gasses, water, land use, health, pandemics, antimicrobial resistance --> sufficient but not necessary. 
 Outside of science...https://www.nytimes.com/2020/12/29/science/dairy-farming-cows-milk.html, *Consider the Lobster*, etc
 Messenger conversations, picking fights. 
 How intelligent people seem to talk about veganism, fights they know they can't win
