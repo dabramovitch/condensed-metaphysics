@@ -27,7 +27,18 @@ But in any case, between winter break and omicron I have been off the mat for ab
 And so I came to jam my finger in a grad housing apartment living room, working on quick reactionary sprawls with heavy hips. 
 And have the first thought "aw fuck, I'm too much a nerd for this sort of injury." 
 And then, "would I even go to a doctor if it required it?" 
-And then procede to ice it with an ice pack from a prescription drug shipment, which I had thrown in my freezer a few months ago. 
+And then procede to treat it with an ice pack from a prescription drug shipment, which I had thrown in my freezer a few months ago. 
+
+For such different contexts, the stories of these two finger jams feels like a story of unexpected continuity.
+Five months ago, I wrote a post suggesting wrestling still entered my thinking despite stance and motion drills being years behind me. 
+Now stance and motion drills enter a grappling aspect of my life that is very much alive, in which I summon up old memories of a neat single leg finish I'd forgotten (blocking the foot and collecting), or arm dragging out of a front headlock, or circling rather than standing out of a sprawl. 
+(The last incidentally is why I was doing the drill in my living room and not beside my bed). 
+It's strangely validating to recover some aspect of my life I thought I'd left in the past, and grappling is not alone. 
+After drifting away from chemistry since the end of my high school AP class, quantum chemistry and a love for the stuff of this world is slowly drawing me back in. 
+And I read more fantasy in the latter half of 2021 than any time since I first picked up *A Song of Ice and Fire* at 15; done more creative (though admittedly little) than since high school as well. 
+Certain things are always with you. 
+
+In *The Catcher in the Rye* (which I really liked senior year in high school and then forgot about), Holden at one point says 
 
 
 I need only look at the back of my right hand to see that some things last longer than you'd think. 
