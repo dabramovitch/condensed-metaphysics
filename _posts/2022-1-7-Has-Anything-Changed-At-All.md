@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Has Anything Changed at All?"
