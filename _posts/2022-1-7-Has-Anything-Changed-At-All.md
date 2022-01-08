@@ -5,7 +5,7 @@ date: 2022-1-7
 category: reflections
 layout: post
 tags: [wrestling,jiu-jitsu,change]
-published: False
+published: True
 ---
 
 Yesterday, I jammed my thumb doing some movement caught between a sprawl and a downblock. 
@@ -38,7 +38,26 @@ After drifting away from chemistry since the end of my high school AP class, qua
 And I read more fantasy in the latter half of 2021 than any time since I first picked up *A Song of Ice and Fire* at 15; done more creative (though admittedly little) than since high school as well. 
 Certain things are always with you. 
 
-In *The Catcher in the Rye* (which I really liked senior year in high school and then forgot about), Holden at one point says 
+In *The Catcher in the Rye* (which I really liked senior year in high school and then forgot about), Holden at one point says "You could put a skate key in my hand fifty years from now, in pitch dark, and I'd still know what it is."
+Well, lock my hands around a single leg fifty years from now in the dark, I'll know how to finish it. 
 
+Am I in some way regressing into my high school self?
+Even if grappling, chemistry, and writing can all be overlooked, quoting Holden Caulfield is deeply suspicious. 
+Or does this imply that version of me was truer to myself than I knew? 
+And then, what about the time in between, four deeply formative years at Berkeley? 
+Did I stray? 
 
-I need only look at the back of my right hand to see that some things last longer than you'd think. 
+Those questions may have answers, which in turn may even matter. 
+But I think the key realization is that I am now an adult, in a way qualitatively distinct from five years ago. 
+And my grappling, and chemistry, reading, and writing too, are better for it, and my relationships with them better. 
+
+But I think with this adult approach, and part of what I mean by temporally dispersive fulfillment, is a newfound awe for the earlier, more formative days. 
+(Which this may be too in a decade). 
+Wrestling in middle and high school really scared me. 
+I am reminded of 6 AM van rides to the Mid Cal invitational, first as a freshman rising to my first varsity tournament, then as a sophomore swept into a leadership role even as a built up a losing record, then as a junior doing the difficult things which took me from more seriously considering quitting than since 8th grade to placing in section. 
+(As a senior I was injured). 
+Somehow, "Pompeii" by Bastille always seemed to play around dawn. 
+I knew it only as that song that went *"… But if you close your eyes
+Does it almost feel like nothing changed at all?"*. 
+
+Well, it's not wrong. I need only look at the back of my right hand to see that some things last longer than you'd think. 
