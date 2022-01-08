@@ -1,9 +1,9 @@
 
 ---
+layout: post
 title: "Has Anything Changed at All?"
 date: 2022-1-7
 category: reflections
-layout: post
 tags: [wrestling,jiu-jitsu,change]
 published: True
 ---
