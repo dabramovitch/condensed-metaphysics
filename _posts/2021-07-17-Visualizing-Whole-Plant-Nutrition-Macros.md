@@ -1,5 +1,5 @@
 ---
-title : "Visualizing Whole Plant Nutrition: Macronutrients"
+title : "Import matplotlib.pyplot as wfpb"
 date: 2021-07-17
 published : True
 category: food
