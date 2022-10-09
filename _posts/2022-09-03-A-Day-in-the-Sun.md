@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Day in the Sun"
+title: "A Day in the Sun"
 category: stories
 tags: ["realistic fiction"]
 date: 2022-09-03
