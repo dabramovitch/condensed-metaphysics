@@ -55,7 +55,7 @@ The hot, astringent liquid felt so unlike the dull ache of life as it ran down h
 Two more swallows followed, gripping at the husk and pulling him along with it as cool air buffeted the foggy window. 
 For the span of a few breaths, he felt as if some time ago he had unwittingly gotten himself turned inside out, and only now had some kind being taken it upon itself to reach within him and set things right.
 When at last Jasper stepped away from the window, the office seemed incongruously bright, and he switched off the light before sinking into his chair. 
-He found himself back in time, remembering black berry bushes and tanoaks and sucking in cool fog, feeling, for all the world, quite little, but whole and connected to a place, half a copse and half a twisted foothill trail, leading...  
+He found himself back in time, remembering blackberry bushes and tanoaks and sucking cool fog, feeling, for all the world, quite little, but whole and connected to a place, half a copse and half a twisted foothill trail, shadowed switchbacks beneath the eastern ridgeline, he followed, clear to a dusty firebreak under the surf and ember of open sky...
 
 Jasper woke before dawn, his body protesting.
 Pained, he stood, and downed the last of the mountain tea, smiling at the taste of dormant life in the cold dregs. 
